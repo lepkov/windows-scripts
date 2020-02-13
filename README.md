@@ -6,3 +6,7 @@ Script cleans files older than 30 days from D:\data\backup1C with .7z extension 
 Reopen_application_with_timeout.bat
 
 Script closes app and starts new with 2 seconds timeout.
+
+Windows_7_DisableAero.bat
+
+Script configs windows for more perfomance
