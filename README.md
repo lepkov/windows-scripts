@@ -9,7 +9,8 @@ Script closes app and starts new with 2 seconds timeout.
 
 **Windows_7_DisableAero.bat**
 
-Script configs windows for more perfomance
+Script configs windows for more perfomance. Works for Windows 7.
 
 **setThemeCloseWindow.vbs**
+
 Sets for Basic theme and closes personalization windows. Works for Windows 7.
