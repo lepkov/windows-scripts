@@ -13,4 +13,4 @@ Script configs windows for more perfomance. Works for Windows 7.
 
 **setThemeCloseWindow.vbs**
 
-Sets for Basic theme and closes personalization windows. Works for Windows 7.
+Sets Basic theme (without Aero) and closes personalisation window. Works for Windows 7.
