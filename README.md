@@ -11,6 +11,6 @@ Script closes app and starts new with 2 seconds timeout.
 
 Script configs windows for more perfomance. Works for Windows 7.
 
-**setThemeCloseWindow.vbs**
+**Windows_7_ApplyTheme.vbs**
 
-Sets Basic theme (without Aero) and closes personalisation window. Works for Windows 7.
+Script works for Windows 7, checks for Current theme in registry and if it's not basic.theme, applies it and closes Personalisation window.
