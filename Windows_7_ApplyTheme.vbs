@@ -5,8 +5,6 @@ currentTheme = "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Them
 ReadTheme = WSHShell.RegRead(currentTheme)
 '---Reading Reg Values
 WSHShell.RegRead(currentTheme)
-
-
 '---Echo Values for debug
 'WScript.Echo WshShell.RegRead(currentTheme)
 
