@@ -1,6 +1,7 @@
 # windows-scripts
 
 **add_PC_to_domain.ps1**
+
 Adds PC to specified domain with specified credentials.
 
 **Clean_old_1C_backups.bat**
