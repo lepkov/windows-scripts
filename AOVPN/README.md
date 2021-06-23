@@ -26,4 +26,5 @@ cd C:\AOVPN
 .\aovpn.lepkov.ru.ps1 -xmlFilePath "C:\AOVPN\aovpn.lepkov.ru.xml" -ProfileName "aovpn.lepkov.ru";
 
 **Check if that worked** 
+
 Get-VpnConnection -AllUserConnection
