@@ -1,5 +1,5 @@
 $Action = New-ScheduledTaskAction -Execute 'powershell.exe' -Argument '"C:\Windows\notepad.exe"'
-$Trigger = New-ScheduledTaskTrigger -AtLogon
+$Trigger = New-ScheduledTaskTrigger -AtLogon -User Administrator
 $Principal = New-ScheduledTaskPrincipal -GroupId "BUILTIN\Administrators" -RunLevel Highest
 $Settings = New-ScheduledTaskSettingsSet
 $Task = New-ScheduledTask -Action $Action -Trigger $Trigger -Settings $Settings -Principal $Principal
