@@ -1,0 +1,1 @@
+.\PsExec64.exe -i 1 \\192.168.1.1 -u Administrator -p password123 "C:\Windows\notepad.exe"
